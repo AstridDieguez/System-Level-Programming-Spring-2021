@@ -1,0 +1,22 @@
+Costa Rica 506
+France 33
+Nicaragua 505
+Peru 51
+Sweden 46
+United States 1
+Iraq 964
+Japan 81
+Argentina 54
+China 86
+Denmark 45
+Ireland 353
+Philippines 63
+Serbia 381
+United Kingdom 44
+Madagascar 261
+Germany 49
+Brazil 55
+Egypt 20
+Mexico 52
+Romania 40
+Saudi Arabia 966
